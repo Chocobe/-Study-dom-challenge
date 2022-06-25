@@ -2,6 +2,7 @@
 
 # 요구사항
 
+* [Memory Game](https://github.com/Chocobe/-Study-dom-challenge/tree/master/06-memory-game)
 * 고정된 블록 개수로 Memory Game 만들기 (블록 개수 설정 가능)
 * ``START`` 버튼으로 게임 시작하기
 * 블록은 순차대로 깜빡거리며, 1개 부터 시작
